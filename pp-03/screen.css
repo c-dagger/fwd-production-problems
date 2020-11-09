@@ -63,5 +63,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
   #content {
     display: flex;
     flex-flow: row;
-
+}
+  #one,
+  #two,
+  #three {
+  height: 100vw;
+  width: 33.3333vw; //viewport width divided by 3 (100vw/3 = 33.3333vw)
 }
