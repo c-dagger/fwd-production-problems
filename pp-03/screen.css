@@ -39,7 +39,12 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 }
 
 @media screen and (min-width: 600px) {
-
+  #content {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row-reverse;
+    flex-flow: row wrap-reverse;
+  }
   #two,
   #one {
   height: 50vw;
