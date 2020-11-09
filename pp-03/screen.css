@@ -50,13 +50,14 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
   height: 50vw;
   width: 50vw;
 }
+#one {
+  order: -1;
+}
   #three {
     height: 100vw;
     width: 100vw;
-
+    order: -1;
   }
-
-
 
 @media screen and (min-width: 800px) {
 
