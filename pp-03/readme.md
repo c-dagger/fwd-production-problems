@@ -23,4 +23,4 @@ and takes up the entire viewport. An arrangement like this:
 order, spread equally across the entire viewport.
 
 5. Bragging rights if you can accomplish all of these without setting special flex item properties
-on any individual list item.f
+on any individual list item.
